@@ -1,0 +1,30 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:56881/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "WebApplication": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\danie\\Source\\Repos\\ITM10-DDOS\\TestServer\\WebApplication\\bin\\Debug\\net452\\WebApplication.exe",
+      "workingDirectory": "C:\\Users\\danie\\Source\\Repos\\ITM10-DDOS\\TestServer\\WebApplication",
+      "launchBrowser": true,
+      "launchUrl": "localhost ",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:56882"
+    }
+  }
+}
